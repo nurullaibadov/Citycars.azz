@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="CarRental.Application/CarRental.Application.csproj" Id="ace9bf29-a227-4632-8e44-7555fdf323f1" />
+    <Project Path="CarRental.Domain/CarRental.Domain.csproj" Id="1f2b7b2f-4ffe-40ab-8fbb-efd576918dea" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="CarRental.Infrastructure/CarRental.Infrastructure.csproj" Id="397f2755-7a95-4956-8fe4-bc5514bfb6e5" />
+    <Project Path="CarRental.Persistence/CarRental.Persistence.csproj" Id="d02eb654-1090-471a-999d-c9668c22edec" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="CarRental.API/CarRental.API.csproj" Id="31b6c41c-da81-44cc-9598-33227cb24b69" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
